@@ -9,9 +9,4 @@ export const Global = createGlobalStyle`
     text-decoration: none;
     /* background-color: antiquewhite; */
  }
-
-
-
-
-
 `;
