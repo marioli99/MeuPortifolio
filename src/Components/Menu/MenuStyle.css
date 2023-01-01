@@ -25,11 +25,12 @@ header{
     list-style: none;
   }
   
-  header nav ul li a {
+  header nav ul li
+   a {
     text-decoration: none;
     color: rgb(241, 239, 239);
     font-size: 1rem;
-    padding: 2.0rem;
+    /* padding: 2.0rem; */
     transition: all 250ms linear 0s;
   }
   
@@ -57,8 +58,8 @@ header{
   }
 
    li{
-    width: 13vw;
-    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 5vw;
     background-color: black;
   }
   

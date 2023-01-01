@@ -1,5 +1,5 @@
 import React from "react";
-import * as S from "../About/About"
+import * as S from "../About/AboutStyle"
 
 function About (){
     return(
