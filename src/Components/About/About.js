@@ -13,7 +13,6 @@ export const TitleAbout = styled.h1`
 `;
 
 export const TextAbout = styled.p`
-  width: 80vw;
   margin-bottom: 1rem;
 `;
 export const ListAbout = styled.ul`
