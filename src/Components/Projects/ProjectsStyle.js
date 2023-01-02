@@ -3,6 +3,8 @@ import styled from "styled-components";
 export const ContainerProjects = styled.div`
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
 `;
 
 export const image = styled.div`
@@ -10,6 +12,5 @@ export const image = styled.div`
   width: 20vw;
   height: 20vw;
   border-radius: 50%;
-  margin-left: 2rem;
-  margin-top: 2rem;
+  margin: 2rem 1rem 2rem 2rem;
 `;
