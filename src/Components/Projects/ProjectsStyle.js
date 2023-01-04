@@ -7,6 +7,10 @@ export const ContainerProjects = styled.div`
   justify-content: center;
 `;
 
+export const TitleProjecs = styled.h2`
+  font-size: 40px;
+`;
+
 export const image = styled.div`
   background-color: blue;
   width: 20vw;

@@ -9,12 +9,12 @@ function About (){
         <S.TextAbout>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur delectus natus sunt facere perferendis quos in neque officiis dignissimos mollitia culpa minima odio eveniet deserunt, iure repudiandae voluptatibus asperiores nulla?</S.TextAbout>
         <h2>Minhas habilidades</h2>
         <S.ListAbout>
-            <li>lorem</li>
-            <li>lorem</li>
-            <li>Lorem</li>
-            <li>Lorem</li>
-            <li>Lorem</li>
-            <li>Lorem</li>
+            <S.LiAbout>lorem</S.LiAbout>
+            <S.LiAbout>lorem</S.LiAbout>
+            <S.LiAbout>Lorem</S.LiAbout>
+            <S.LiAbout>Lorem</S.LiAbout>
+            <S.LiAbout>Lorem</S.LiAbout>
+            <S.LiAbout>Lorem</S.LiAbout>
         </S.ListAbout>
         </S.Container>
     )
